@@ -5,6 +5,9 @@ Changelog
 0.1.3 (unreleased)
 ------------------
 
+- Ensure cpskin.theme is migrated to LESS before migrating this theme
+  [laulaz]
+
 - Complete migration to LESS
   [laulaz]
 
