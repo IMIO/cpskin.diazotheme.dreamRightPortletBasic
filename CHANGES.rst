@@ -5,6 +5,8 @@ Changelog
 0.2.1 (unreleased)
 ------------------
 
+- Add missing dependency on cpskin.diazotheme.dream
+
 - Fix LESS styles inheritance from cpskin.diazotheme.dream : #17714
   [laulaz]
 
