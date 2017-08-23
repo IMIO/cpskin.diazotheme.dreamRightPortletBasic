@@ -2,10 +2,11 @@ Changelog
 =========
 
 
-0.2.3 (unreleased)
+0.2.3 (2017-08-23)
 ------------------
 
-- Nothing changed yet.
+- Add rules for annuaire
+  [mgennart]
 
 
 0.2.2 (2017-07-17)
