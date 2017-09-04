@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-0.2.4 (unreleased)
+0.2.4 (2017-09-04)
 ------------------
 
 - Add migration for missing JS files (#18579)
