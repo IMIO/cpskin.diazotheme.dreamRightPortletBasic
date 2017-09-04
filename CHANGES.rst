@@ -5,7 +5,8 @@ Changelog
 0.2.4 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add migration for missing JS files (#18579)
+  [laulaz]
 
 
 0.2.3 (2017-08-23)

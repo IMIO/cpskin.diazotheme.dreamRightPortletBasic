@@ -32,4 +32,13 @@
         profile="cpskin.diazotheme.dreamRightPortletBasic:default"
         />
 
+    <genericsetup:upgradeStep
+        title="cpskin.diazotheme.dreamRightPortletBasic theme: add missing base JS files (v0003)"
+        description="Upgrade step for cpskin.diazotheme.dreamRightPortletBasic theme to add missing base JS files (v0003)"
+        handler=".upgradehandlers.upgrade_portal_javascript"
+        source="0002"
+        destination="0003"
+        profile="cpskin.diazotheme.dreamRightPortletBasic:default"
+        />
+
 </configure>

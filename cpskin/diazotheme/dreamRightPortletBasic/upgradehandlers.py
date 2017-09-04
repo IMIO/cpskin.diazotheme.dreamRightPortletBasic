@@ -6,6 +6,7 @@ import logging
 from cpskin.theme.upgradehandlers import upgrade_to_less as base_less_upgrade
 
 logger = logging.getLogger('cpskin.diazotheme.dreamRightPortletBasic')
+PROFILE_ID = "profile-cpskin.diazotheme.dreamRightPortletBasic:default"
 
 
 def upgrade_to_less(context):
@@ -17,3 +18,7 @@ def upgrade_to_less(context):
         'lessregistry'
     )
     logger.info('LESS files installed and configurations done !')
+
+
+def upgrade_portal_javascript(context):
+    context.runImportStepFromProfile(PROFILE_ID, 'jsregistry')
