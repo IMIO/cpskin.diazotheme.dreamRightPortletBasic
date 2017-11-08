@@ -5,7 +5,8 @@ Changelog
 0.2.6 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add rules for right actions viewlet
+  [laulaz]
 
 
 0.2.5 (2017-10-12)
