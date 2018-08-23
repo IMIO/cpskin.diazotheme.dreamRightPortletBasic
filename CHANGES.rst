@@ -5,7 +5,8 @@ Changelog
 0.2.7 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add uninstall profile
+  [laulaz]
 
 
 0.2.6 (2018-01-11)
