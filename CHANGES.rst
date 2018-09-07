@@ -5,6 +5,9 @@ Changelog
 0.2.7 (unreleased)
 ------------------
 
+- Add missing theme parameters
+  [laulaz]
+
 - Add uninstall profile
   [laulaz]
 
