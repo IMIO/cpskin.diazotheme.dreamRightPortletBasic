@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-0.2.8 (unreleased)
+0.2.8 (2019-01-10)
 ------------------
 
 - Use fragment to get "Search" translation
