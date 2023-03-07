@@ -5,6 +5,9 @@ Changelog
 0.2.9 (unreleased)
 ------------------
 
+- SUP-28893 : Use fragment to get giveADayWidget
+  [boulch]
+
 - Improve CSS media queries sizes
   [laulaz]
 
