@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-0.2.9 (unreleased)
+0.2.9 (2023-03-07)
 ------------------
 
 - SUP-28893 : Use fragment to get giveADayWidget
