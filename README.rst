@@ -1,6 +1,6 @@
-====================
+========================================
 cpskin.diazotheme.dreamRightPortletBasic
-====================
+========================================
 
 This is a Cpskin Diazo theme
 
